@@ -1,0 +1,6 @@
+com.zybooks.androidproject.test.app-tracing-1.2.0-0 /Users/laportam/.gradle/caches/8.10.2/transforms/710acf409c605bea23e8cf062a4193e1/transformed/tracing-1.2.0/res
+com.zybooks.androidproject.test.app-core-1.6.1-1 /Users/laportam/.gradle/caches/8.10.2/transforms/ded563a96854075149947215aea0017a/transformed/core-1.6.1/res
+com.zybooks.androidproject.test.app-androidTest-2 /Users/laportam/Documents/androidstudio/AndroidProject/app/build/generated/res/resValues/androidTest/debug
+com.zybooks.androidproject.test.app-mergeDebugAndroidTestResources-3 /Users/laportam/Documents/androidstudio/AndroidProject/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.zybooks.androidproject.test.app-mergeDebugAndroidTestResources-4 /Users/laportam/Documents/androidstudio/AndroidProject/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.zybooks.androidproject.test.app-debugAndroidTest-5 /Users/laportam/Documents/androidstudio/AndroidProject/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

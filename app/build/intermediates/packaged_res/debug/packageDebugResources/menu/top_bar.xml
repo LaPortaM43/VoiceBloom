@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- top_bar.xml -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Back button (this is handled automatically by Toolbar as the Up button) -->
+    <item
+        android:id="@+id/action_back"
+        android:title="Back"
+        android:icon="@android:drawable/ic_menu_revert"/>
+
+</menu>

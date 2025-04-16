@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#FF808080</color>
+    <color name="food_category">#FF5722</color>
+    <color name="drink_category">#2196F3</color>
+    <color name="emotion_category">#FFC107</color>
+    <color name="card_color_1">#FFD1DC</color>
+    <color name="card_color_2">#DFECFF</color>
+    <color name="card_color_3">#E1F5E4</color>
+    <color name="card_color_4">#FFF9D9</color>
+</resources>

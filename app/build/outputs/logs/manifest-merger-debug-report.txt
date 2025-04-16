@@ -1,0 +1,820 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd1a09ae64e7902ee13c1dfdd6858cd3/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1a77b005ddc9998244e91a65e3e3819b/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/f3a196c145334ea2e5e8c37ae6583f02/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/20ff7d69fbf76badf88761006b44894d/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2fcd2166aad012d5c2b9f278d6dfe6a2/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-analytics:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/083f03d4bf210d132a5f48e804d74ad6/transformed/firebase-analytics-22.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2af10b6c904d67e0a85c3256cb36cc28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/d19fa73e5d17b7f31f2103d0a68741ba/transformed/play-services-measurement-sdk-22.3.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e658a2ab0c8686dbba04a0299588ae0a/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/2573164194593779812b577b9e06b9c9/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/75d2c92b15127150622c141080bb7c47/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e1ad90133f23d5f12c8e9805742bdd43/transformed/integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8bffdcfc0bd3d51e3957bfcf20e97e4c/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/1de60dcd4765a8232d95dd9660c8a9c2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1223b69eefe885a8831827624033197f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/9b204dd2a10dce0b718166aff5604a57/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2c0538350895cadd08a35317cadd60a9/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/57f239def01798f6878eb40f6c643f48/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/6d806f90dbfc95dc9cea286f675fe182/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/c666c63231481171e060640fb46a66d5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/30d190c2e50232af6f52be24c82ef5e5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd27fc2a71abf8e3eaef2cb409640d7b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0cdcbc71ef7ad53eca2ba82b7febd493/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/b0245b4023e6275deb2dddc042437423/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/fdb68366bec2555b70d596bd800970b5/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0324e38f9488199255ff1ee2c5fc119a/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/b24b77a2c2515e8937eb8681eeb26f35/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/laportam/.gradle/caches/8.10.2/transforms/8dfda8c2ef8e04870173afcac9dc1ce9/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/laportam/.gradle/caches/8.10.2/transforms/fc134cc309672bb01dce537cd747236b/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/d45c27a69bdb99660634fc5bf1a6e623/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/9f44687f209ca6a78cd050eb7181a0b6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/d54a8eb5501dfbdef69e0df467817ebc/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/8bb6504b582c5d085f9cd36281cfca64/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a8950d403e2220d6861e90807eb454e4/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/5a442abf3f160f9e25c2d155c3905027/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/08cec19cfa8990d557cd45f300624e6a/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/f3b766954619ba9de79a7f12e82eff2c/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e7abe27dde48924a819813b6b2ecaf22/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a200bf2c42a944926e963015279fb466/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a70b26b10e3a543695e51fe588e9a1bc/transformed/play-services-measurement-base-22.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/917414af24fbcf5a0a4a97680608ce56/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/laportam/.gradle/caches/8.10.2/transforms/97bbefe970a6d0962af4a458d566682e/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/laportam/.gradle/caches/8.10.2/transforms/0e046e314a029b3e94a34bb5a9ed1e03/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/65438a46adf4e7cee3abac1282bc362f/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/446ccda75483e54374d66e910503a032/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/07fc1b66336e78b8803ac98a18484f99/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/f6dbc6015a5b26882952b11a6788c22a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a65bf7655f52b56bb8e73e0e2d9d57b6/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a071fe0c7952af8ed0694184077251b5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/710acf409c605bea23e8cf062a4193e1/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/77f0e4581471386a2f7f9e7ffb4259ac/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1fa4e7085759d29a4be283324377061e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ec033a9eee238b71654e413a79caaf1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0f5a69141d23fcd995d7ba6259236721/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/eeaa1d229231c2d92360300a2af0676a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7512e24f0f7d2010e4929ab64651cb44/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/laportam/.gradle/caches/8.10.2/transforms/bbd406590f981230416a1f6fe998bff7/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/cf7a72e8866eea1f7da50079ee298a3e/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/laportam/.gradle/caches/8.10.2/transforms/fa20656078c3597f6e1a90f285091adc/transformed/grpc-android-1.62.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/6b0b62e25fe71c8a48a40731a0d3ded9/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:5:5-39:19
+INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:5:5-39:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd1a09ae64e7902ee13c1dfdd6858cd3/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd1a09ae64e7902ee13c1dfdd6858cd3/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1a77b005ddc9998244e91a65e3e3819b/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1a77b005ddc9998244e91a65e3e3819b/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-analytics:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/083f03d4bf210d132a5f48e804d74ad6/transformed/firebase-analytics-22.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/083f03d4bf210d132a5f48e804d74ad6/transformed/firebase-analytics-22.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2af10b6c904d67e0a85c3256cb36cc28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2af10b6c904d67e0a85c3256cb36cc28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/d19fa73e5d17b7f31f2103d0a68741ba/transformed/play-services-measurement-sdk-22.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/d19fa73e5d17b7f31f2103d0a68741ba/transformed/play-services-measurement-sdk-22.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e658a2ab0c8686dbba04a0299588ae0a/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e658a2ab0c8686dbba04a0299588ae0a/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e1ad90133f23d5f12c8e9805742bdd43/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e1ad90133f23d5f12c8e9805742bdd43/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8bffdcfc0bd3d51e3957bfcf20e97e4c/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8bffdcfc0bd3d51e3957bfcf20e97e4c/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/30d190c2e50232af6f52be24c82ef5e5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/30d190c2e50232af6f52be24c82ef5e5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e7abe27dde48924a819813b6b2ecaf22/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e7abe27dde48924a819813b6b2ecaf22/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a200bf2c42a944926e963015279fb466/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a200bf2c42a944926e963015279fb466/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a70b26b10e3a543695e51fe588e9a1bc/transformed/play-services-measurement-base-22.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a70b26b10e3a543695e51fe588e9a1bc/transformed/play-services-measurement-base-22.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/917414af24fbcf5a0a4a97680608ce56/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/917414af24fbcf5a0a4a97680608ce56/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a071fe0c7952af8ed0694184077251b5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a071fe0c7952af8ed0694184077251b5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1fa4e7085759d29a4be283324377061e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1fa4e7085759d29a4be283324377061e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:13:9-52
+	android:dataExtractionRules
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.zybooks.androidproject.SubjectActivity
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:16:13-44
+activity#com.zybooks.androidproject.CategoryActivity
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:19:13-45
+activity#com.zybooks.androidproject.HomepageActivity
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:22:13-45
+activity#com.zybooks.androidproject.RegisterActivity
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:25:13-45
+activity#com.zybooks.androidproject.LoginActivity
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:28:13-42
+activity#com.zybooks.androidproject.MainActivity
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:exported
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd1a09ae64e7902ee13c1dfdd6858cd3/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd1a09ae64e7902ee13c1dfdd6858cd3/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1a77b005ddc9998244e91a65e3e3819b/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1a77b005ddc9998244e91a65e3e3819b/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/f3a196c145334ea2e5e8c37ae6583f02/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/f3a196c145334ea2e5e8c37ae6583f02/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/20ff7d69fbf76badf88761006b44894d/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/20ff7d69fbf76badf88761006b44894d/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2fcd2166aad012d5c2b9f278d6dfe6a2/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2fcd2166aad012d5c2b9f278d6dfe6a2/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/083f03d4bf210d132a5f48e804d74ad6/transformed/firebase-analytics-22.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/083f03d4bf210d132a5f48e804d74ad6/transformed/firebase-analytics-22.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2af10b6c904d67e0a85c3256cb36cc28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2af10b6c904d67e0a85c3256cb36cc28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/d19fa73e5d17b7f31f2103d0a68741ba/transformed/play-services-measurement-sdk-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/d19fa73e5d17b7f31f2103d0a68741ba/transformed/play-services-measurement-sdk-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e658a2ab0c8686dbba04a0299588ae0a/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e658a2ab0c8686dbba04a0299588ae0a/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/2573164194593779812b577b9e06b9c9/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/2573164194593779812b577b9e06b9c9/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/75d2c92b15127150622c141080bb7c47/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/75d2c92b15127150622c141080bb7c47/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e1ad90133f23d5f12c8e9805742bdd43/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e1ad90133f23d5f12c8e9805742bdd43/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8bffdcfc0bd3d51e3957bfcf20e97e4c/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8bffdcfc0bd3d51e3957bfcf20e97e4c/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/1de60dcd4765a8232d95dd9660c8a9c2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/1de60dcd4765a8232d95dd9660c8a9c2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1223b69eefe885a8831827624033197f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1223b69eefe885a8831827624033197f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/9b204dd2a10dce0b718166aff5604a57/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/9b204dd2a10dce0b718166aff5604a57/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2c0538350895cadd08a35317cadd60a9/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2c0538350895cadd08a35317cadd60a9/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/57f239def01798f6878eb40f6c643f48/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/57f239def01798f6878eb40f6c643f48/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/6d806f90dbfc95dc9cea286f675fe182/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/6d806f90dbfc95dc9cea286f675fe182/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/c666c63231481171e060640fb46a66d5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/c666c63231481171e060640fb46a66d5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/30d190c2e50232af6f52be24c82ef5e5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/laportam/.gradle/caches/8.10.2/transforms/30d190c2e50232af6f52be24c82ef5e5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd27fc2a71abf8e3eaef2cb409640d7b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/dd27fc2a71abf8e3eaef2cb409640d7b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0cdcbc71ef7ad53eca2ba82b7febd493/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0cdcbc71ef7ad53eca2ba82b7febd493/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/b0245b4023e6275deb2dddc042437423/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/b0245b4023e6275deb2dddc042437423/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/fdb68366bec2555b70d596bd800970b5/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/fdb68366bec2555b70d596bd800970b5/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0324e38f9488199255ff1ee2c5fc119a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0324e38f9488199255ff1ee2c5fc119a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/b24b77a2c2515e8937eb8681eeb26f35/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/b24b77a2c2515e8937eb8681eeb26f35/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/laportam/.gradle/caches/8.10.2/transforms/8dfda8c2ef8e04870173afcac9dc1ce9/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/laportam/.gradle/caches/8.10.2/transforms/8dfda8c2ef8e04870173afcac9dc1ce9/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/laportam/.gradle/caches/8.10.2/transforms/fc134cc309672bb01dce537cd747236b/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/laportam/.gradle/caches/8.10.2/transforms/fc134cc309672bb01dce537cd747236b/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/d45c27a69bdb99660634fc5bf1a6e623/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/d45c27a69bdb99660634fc5bf1a6e623/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/9f44687f209ca6a78cd050eb7181a0b6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/9f44687f209ca6a78cd050eb7181a0b6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/d54a8eb5501dfbdef69e0df467817ebc/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/d54a8eb5501dfbdef69e0df467817ebc/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/8bb6504b582c5d085f9cd36281cfca64/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/8bb6504b582c5d085f9cd36281cfca64/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a8950d403e2220d6861e90807eb454e4/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a8950d403e2220d6861e90807eb454e4/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/5a442abf3f160f9e25c2d155c3905027/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/laportam/.gradle/caches/8.10.2/transforms/5a442abf3f160f9e25c2d155c3905027/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/08cec19cfa8990d557cd45f300624e6a/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/08cec19cfa8990d557cd45f300624e6a/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/f3b766954619ba9de79a7f12e82eff2c/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/f3b766954619ba9de79a7f12e82eff2c/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e7abe27dde48924a819813b6b2ecaf22/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/e7abe27dde48924a819813b6b2ecaf22/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a200bf2c42a944926e963015279fb466/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a200bf2c42a944926e963015279fb466/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a70b26b10e3a543695e51fe588e9a1bc/transformed/play-services-measurement-base-22.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a70b26b10e3a543695e51fe588e9a1bc/transformed/play-services-measurement-base-22.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/917414af24fbcf5a0a4a97680608ce56/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/917414af24fbcf5a0a4a97680608ce56/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/laportam/.gradle/caches/8.10.2/transforms/97bbefe970a6d0962af4a458d566682e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/laportam/.gradle/caches/8.10.2/transforms/97bbefe970a6d0962af4a458d566682e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] /Users/laportam/.gradle/caches/8.10.2/transforms/0e046e314a029b3e94a34bb5a9ed1e03/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/laportam/.gradle/caches/8.10.2/transforms/0e046e314a029b3e94a34bb5a9ed1e03/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/65438a46adf4e7cee3abac1282bc362f/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/65438a46adf4e7cee3abac1282bc362f/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/446ccda75483e54374d66e910503a032/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/446ccda75483e54374d66e910503a032/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/07fc1b66336e78b8803ac98a18484f99/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/07fc1b66336e78b8803ac98a18484f99/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/f6dbc6015a5b26882952b11a6788c22a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/f6dbc6015a5b26882952b11a6788c22a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a65bf7655f52b56bb8e73e0e2d9d57b6/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a65bf7655f52b56bb8e73e0e2d9d57b6/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a071fe0c7952af8ed0694184077251b5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a071fe0c7952af8ed0694184077251b5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/710acf409c605bea23e8cf062a4193e1/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/710acf409c605bea23e8cf062a4193e1/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/77f0e4581471386a2f7f9e7ffb4259ac/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/77f0e4581471386a2f7f9e7ffb4259ac/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1fa4e7085759d29a4be283324377061e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/1fa4e7085759d29a4be283324377061e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ec033a9eee238b71654e413a79caaf1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ec033a9eee238b71654e413a79caaf1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0f5a69141d23fcd995d7ba6259236721/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/0f5a69141d23fcd995d7ba6259236721/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/eeaa1d229231c2d92360300a2af0676a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/eeaa1d229231c2d92360300a2af0676a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7512e24f0f7d2010e4929ab64651cb44/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7512e24f0f7d2010e4929ab64651cb44/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/laportam/.gradle/caches/8.10.2/transforms/bbd406590f981230416a1f6fe998bff7/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/laportam/.gradle/caches/8.10.2/transforms/bbd406590f981230416a1f6fe998bff7/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/cf7a72e8866eea1f7da50079ee298a3e/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/laportam/.gradle/caches/8.10.2/transforms/cf7a72e8866eea1f7da50079ee298a3e/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/laportam/.gradle/caches/8.10.2/transforms/fa20656078c3597f6e1a90f285091adc/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/laportam/.gradle/caches/8.10.2/transforms/fa20656078c3597f6e1a90f285091adc/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/6b0b62e25fe71c8a48a40731a0d3ded9/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/6b0b62e25fe71c8a48a40731a0d3ded9/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laportam/Documents/androidstudio/AndroidProject/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8afdd07a91bfe25f3d93d8d0ddc065bd/transformed/firebase-auth-ktx-23.2.0/AndroidManifest.xml:12:17-119
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/laportam/.gradle/caches/8.10.2/transforms/fa20656078c3597f6e1a90f285091adc/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/laportam/.gradle/caches/8.10.2/transforms/fa20656078c3597f6e1a90f285091adc/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8fa89f0dfcd3ce353e92a9b74fefab86/transformed/firebase-auth-23.2.0/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.2] /Users/laportam/.gradle/caches/8.10.2/transforms/a66995af20e721d7da34d15f30a87f78/transformed/firebase-firestore-25.1.2/AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a200bf2c42a944926e963015279fb466/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a200bf2c42a944926e963015279fb466/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/3f1bfe64658c121cc691cdc715cdd9c5/transformed/play-services-measurement-sdk-api-22.3.0/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:27:22-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/ce0fdb6baf8c4fcbf94258594fe1a5b3/transformed/play-services-measurement-api-22.3.0/AndroidManifest.xml:34:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/8a3acd961c7fe9cee82760d82948e42a/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a326659546f03deee45f8dcb3dd59312/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7a5207cfbc5e75a2895e5b4195134f86/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/a77cc23c9d76a016c094467898c5bd72/transformed/play-services-measurement-impl-22.3.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/733aef7c06f5cc52b2c425496ff2b03f/transformed/play-services-measurement-22.3.0/AndroidManifest.xml:40:13-87
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/laportam/.gradle/caches/8.10.2/transforms/a235007babd26f71ba9e9bc7ea31bfae/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/laportam/.gradle/caches/8.10.2/transforms/789cbdec3e96b9afc5f931173c1c90a5/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a0d5e79c52243fffadaa11601f5365b0/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:22-95
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a071fe0c7952af8ed0694184077251b5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/laportam/.gradle/caches/8.10.2/transforms/a071fe0c7952af8ed0694184077251b5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/laportam/.gradle/caches/8.10.2/transforms/665cb233b9b34b27a966b5130aea8266/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/38db883c5c7118e7b3834d4cff5eb4fb/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.zybooks.androidproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.zybooks.androidproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/laportam/.gradle/caches/8.10.2/transforms/03a53678bff6ada1160dcbb76c252e60/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/laportam/.gradle/caches/8.10.2/transforms/88b1d315547181c622377c9a2054bb11/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/laportam/.gradle/caches/8.10.2/transforms/7e90b544c118dfe5a3eef338f08d26e2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/laportam/.gradle/caches/8.10.2/transforms/3ae3752f118632c3260223fc22beafc6/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93
