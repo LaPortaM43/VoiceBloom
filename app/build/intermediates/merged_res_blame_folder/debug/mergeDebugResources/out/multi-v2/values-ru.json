@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-42:/values-ru/values-ru.xml",
+            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-43:/values-ru/values-ru.xml",
             "map": [
                 {
                     "source": "/Users/laportam/.gradle/caches/8.10.2/transforms/91b254180d434bf40cc6340662dd1823/transformed/play-services-basement-18.5.0/res/values-ru/values.xml",

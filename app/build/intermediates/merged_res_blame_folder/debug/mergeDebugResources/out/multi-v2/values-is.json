@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-42:/values-is/values-is.xml",
+            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-43:/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/Users/laportam/.gradle/caches/8.10.2/transforms/b24b77a2c2515e8937eb8681eeb26f35/transformed/browser-1.4.0/res/values-is/values-is.xml",

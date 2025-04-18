@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-42:/values-et/values-et.xml",
+            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-43:/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/res/values-et/values-et.xml",

@@ -1,134 +1,126 @@
 [
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/layout_activity_main.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/layout/activity_main.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/layout_activity_homepage.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/layout/activity_homepage.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/ic_launcher_background.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_ic_add.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/ic_add.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_delete.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/delete.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_delete.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/delete.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_ic_home.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/ic_home.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_settings.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/settings.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_ic_add.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/ic_add.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/layout_activity_login.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/layout/activity_login.xml"
     },
     {
-        "merged": "com.zybooks.androidproject.app-debug-44:/drawable_ic_voicebloom.jpg.flat",
-        "source": "com.zybooks.androidproject.app-main-46:/drawable/ic_voicebloom.jpg"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_check.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/check.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/xml/data_extraction_rules.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_check.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/check.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_ic_home.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/ic_home.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_ic_voicebloom.jpg.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/ic_voicebloom.jpg"
+        "merged": "com.zybooks.androidproject.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/layout_activity_login.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/layout/activity_login.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/layout_activity_subject.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/layout/activity_subject.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/layout_activity_register.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/layout/activity_register.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_ic_voicebloom.jpg.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/ic_voicebloom.jpg"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_previous.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/previous.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_next.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/next.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/xml_backup_rules.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/xml/backup_rules.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/layout_activity_subject.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/layout/activity_subject.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/layout_activity_register.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/layout/activity_register.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_settings.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/settings.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/drawable_next.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/drawable/next.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/layout_activity_category.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/layout/activity_category.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/menu_top_bar.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/menu/top_bar.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.zybooks.androidproject.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/layout_activity_homepage.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/layout/activity_homepage.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/menu_nav_bar.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/menu/nav_bar.xml"
     },
     {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/mipmap-anydpi/ic_launcher.xml"
-    },
-    {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/menu_top_bar.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/menu/top_bar.xml"
-    },
-    {
-        "merged": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-debug-44:/menu_nav_bar.xml.flat",
-        "source": "/Users/laportam/.gradle/daemon/8.10.2/com.zybooks.androidproject.app-main-46:/menu/nav_bar.xml"
+        "merged": "com.zybooks.androidproject.app-debug-45:/drawable_previous.xml.flat",
+        "source": "com.zybooks.androidproject.app-main-47:/drawable/previous.xml"
     }
 ]

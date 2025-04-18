@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-42:/values-iw/values-iw.xml",
+            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-43:/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/Users/laportam/.gradle/caches/8.10.2/transforms/2007df8781a4031df0a328f8a239eb41/transformed/core-1.15.0/res/values-iw/values-iw.xml",

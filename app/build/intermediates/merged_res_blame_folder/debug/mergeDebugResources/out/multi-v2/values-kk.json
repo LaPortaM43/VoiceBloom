@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-42:/values-kk/values-kk.xml",
+            "outputFile": "com.zybooks.androidproject.app-mergeDebugResources-43:/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "/Users/laportam/.gradle/caches/8.10.2/transforms/2573164194593779812b577b9e06b9c9/transformed/credentials-1.2.0-rc01/res/values-kk/values-kk.xml",

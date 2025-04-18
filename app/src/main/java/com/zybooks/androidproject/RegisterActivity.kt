@@ -23,7 +23,6 @@ class RegisterActivity : AppCompatActivity() {
     private lateinit var emailEditText: EditText
     private lateinit var passwordEditText: EditText
     private lateinit var nameEditText: EditText
-    private lateinit var addressEditText: EditText
     private lateinit var registerButton: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -35,7 +34,6 @@ class RegisterActivity : AppCompatActivity() {
         emailEditText = findViewById(R.id.emailEditText)
         passwordEditText = findViewById(R.id.passwordEditText)
         nameEditText = findViewById(R.id.fullNameEditText)
-        addressEditText = findViewById(R.id.addressEditText)
         registerButton = findViewById(R.id.registerButton)
 
         registerButton.setOnClickListener{
@@ -71,9 +69,8 @@ class RegisterActivity : AppCompatActivity() {
         val email = emailEditText.text.toString().trim()
         val password = passwordEditText.text.toString().trim()
         val name = nameEditText.text.toString().trim()
-        val address = addressEditText.text.toString().trim()
 
-        if (email.isEmpty() || password.isEmpty() || name.isEmpty() || address.isEmpty()) {
+        if (email.isEmpty() || password.isEmpty() || name.isEmpty()) {
             Toast.makeText(this, "Please fill all fields", Toast.LENGTH_SHORT).show()
             return
         }
@@ -91,7 +88,6 @@ class RegisterActivity : AppCompatActivity() {
                         "customerID" to user.uid,
                         "customerEmail" to email,
                         "customerName" to name,
-                        "customerAddress" to address,
                         "customerPassword" to password
                     )
                     db.collection("customers").document(user.uid)
